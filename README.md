@@ -4,6 +4,8 @@ A small clipboard roll for your Mac.
 
 This repository hosts official app downloads and the in-app update feed. Stickerboard's application source is private.
 
+The first updater-enabled release is being prepared. No public app download is available yet.
+
 ## Install
 
 Download the app ZIP from [Releases](https://github.com/britonbaker/stickerboard-releases/releases), unzip it, and move **Stickerboard.app** into **Applications** before opening it.
